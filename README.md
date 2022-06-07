@@ -1,1 +1,1 @@
-# [Nikolay Mikushev](https://blonchin.github.io/rsschool-cv/index.html)
+# [Nikolay Mikushev](https://blonchin.github.io/rsschool-cv/gh-pages/index.html)
