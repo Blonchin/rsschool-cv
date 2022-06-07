@@ -22,7 +22,7 @@ I want to change my profession. Having studied the question, I realized that I w
 
 ## Education
 
-* **University:* Samara State Aerospace University, Aircraft engine design engineer
+* *University:* Samara State Aerospace University, Aircraft engine design engineer
 
 ## Languages
 * Russian - native.
